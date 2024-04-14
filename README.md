@@ -2,7 +2,7 @@
 
 We encourage you to participate in this workshop with a partner.
 
-We'll be initiating a new GitHub repository for the My Paint project. Please discuss with your partner how to break down the project into manageable tasks.
+We'll be initiating a new GitHub repository for the MyPaint project. Please discuss with your partner how to break down the project into manageable tasks.
 
 For instance, here’s a suggested way to structure the tasks for the side menu:
 - Side menu:
@@ -18,16 +18,28 @@ For instance, here’s a suggested way to structure the tasks for the side menu:
       - ... 
 
 ## Github Project Basic
-### To do list
+### Issues
+Issues are usefull for track tasks, features, bugs in the project.
+It's important to **well define issues** to avoid any overlaps between issues.
 
-- create a project (with the to-do list template) link to your repo
-- add multiple tasks
+- Create an simple issue "Setup Repo" with a simple description.
 
 -------------
-### Issues
+### To do list
+Github Project help you organize yourself and your team.
+For exemple, with the to-do list, you know the progress of your project and it's makes satisfaction to do a task.
 
-- create an simple issue
-- convert your tasks in issues and assign someone for each
+#### Step 1:
+Create a project Paint (with the to-do list template) link to your repo.
+*Don't forget permissions for your team mate.*
+
+
+#### Step 2:
+Think with your partner how to break down MyPaint into manageable tasks.
+All this step can be make in make in the Github Project
+
+- add the "Setup Repo" inside.
+- create all MyPaint issues.
 
 -------------
 ## Github Project Advanced
