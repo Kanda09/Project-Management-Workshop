@@ -115,5 +115,7 @@ Make a discord webhook
 ## Going Further
 
 There's a lot of tool to organize your team available, don't hesitate to try them and pick the one you like the most.
+
 Here are some known service: Linear, Jira, Slack, Trello, Notions etc...
+
 You can of course setup a CI/CD with some github actions but you can also automate your workflow with website like IFTTT, Zapier , etc...
