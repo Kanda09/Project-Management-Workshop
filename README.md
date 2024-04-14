@@ -47,11 +47,14 @@ If you don't remember what do you do in the issue, you can retreive your note.
 And complete check list in time.*
 
 - add check list in each issue and detailed description *(you can create issues in issues for some big task)*
+
 ![alt text](issues_exemple.png)
 - add a planning
 - create tag and attribute corresponding tag to issues (like sfml, drawing, tools, ...)
 - create a milstone (Must, Should, Could) to see progress in the project
 
+![alt text](milstone_exemple.png)
+-------------
 ## Part 3 -  Github Project Expert
 ### Branch <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Octicons-git-branch.svg/1200px-Octicons-git-branch.svg.png" width="10">
 
