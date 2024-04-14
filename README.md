@@ -1,4 +1,22 @@
 # Project-Management-Workshop
+
+We encourage you to participate in this workshop with a partner.
+
+We'll be initiating a new GitHub repository for the My Paint project. Please discuss with your partner how to break down the project into manageable tasks.
+
+For instance, here’s a suggested way to structure the tasks for the side menu:
+- Side menu:
+	- Color Picker
+	- Tool selector
+		- pencil tool
+		- eraser tool
+      - ...
+	- Shape Selector
+		- Square shape
+		- Round shape
+		- Star shape
+      - ... 
+
 ## Github Project Basic
 ### To do list
 
@@ -55,3 +73,8 @@ Step by step:
 1. Get the webhook URL from Github
 2. Make a discord server
 3. Make a discord webhook
+
+## Going Further
+
+There's a lot of tool to organize your team available, don't hesitate to try them and pick the one you like the most.
+Here are some known service: Linear, Jira, Slack, Trello etc...
