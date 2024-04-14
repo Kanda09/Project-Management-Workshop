@@ -17,17 +17,17 @@ For instance, here’s a suggested way to structure the tasks for the side menu:
 		- Star shape
       - ... 
 
-## Github Project Basic
+## Part 1 - Github Project Basic
 ### Issues
-Issues are usefull for track tasks, features, bugs in the project.
-It's important to **well define issues** to avoid any overlaps between issues.
+*Issues are usefull for track tasks, features, bugs in the project.
+It's important to **well define issues** to avoid any overlaps between issues.*
 
 - Create an simple issue "Setup Repo" with a simple description.
 
 -------------
 ### To do list
-Github Project help you organize yourself and your team.
-For exemple, with the to-do list, you know the progress of your project and it's makes satisfaction to do a task.
+*Github Project help you **organize yourself and your team**.
+For exemple, with the to-do list, you know the progress of your project and it's makes satisfaction to do a task.*
 
 #### Step 1:
 Create a project Paint (with the to-do list template) link to your repo.
@@ -36,21 +36,26 @@ Create a project Paint (with the to-do list template) link to your repo.
 
 #### Step 2:
 Think with your partner how to break down MyPaint into manageable tasks.
-All this step can be make in make in the Github Project
+*All this step can be make in make in the Github Project*
 
 - add the "Setup Repo" inside.
 - create all MyPaint issues.
 
 -------------
-## Github Project Advanced
+## Part 2 - Github Project Advanced
+*To well define issues and organize in the time, you can detail.
+If you don't remember what do you do in the issue, you can retreive your note.
+And complete check list in time.*
 
-- add check list in issues
+- add check list in each issue and detailed description *(you can create issues in issues for some big task)*
+![alt text](issues_exemple.png)
 - add a planning
-- create tag and attribute conresponding tag to issues
-- create a milstone to see progress in the project
+- create tag and attribute corresponding tag to issues (like sfml, drawing, tools, ...)
+- create a milstone (Must, Should, Could) to see progress in the project
 -------------
-## Github Project Expert
+## Part 3 -  Github Project Expert
 ### Branch <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Octicons-git-branch.svg/1200px-Octicons-git-branch.svg.png" width="10">
+=======
 
 In Git, branches are essentially divergent copies of the same project, which allow you to isolate development work without affecting the main line of the project (often called `main` or `master`). This isolation makes it easier to manage features, fix bugs, or experiment with new ideas in a contained area of the repository.
 
@@ -90,7 +95,7 @@ After reviewing a corrected pull request from a peer, if the updates meet the pr
 
 
 -------------
-## Github Project Bonus
+## Part 4 - Github Project Bonus
 ###  Webhook with Discord
 
 A discord webhook will help you being notify of the changes on a repository.
