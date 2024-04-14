@@ -15,9 +15,9 @@
 ## Github Project Advanced
 
 - add check list in issues
+- add a planning
 - create tag and attribute conresponding tag to issues
 - create a milstone to see progress in the project
-
 -------------
 ## Github Project Expert
 ### Branch
