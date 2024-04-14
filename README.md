@@ -1,26 +1,41 @@
 # Project-Management-Workshop
-
 ## Github Project Basic
-### issues
-### to do list
+### To do list
 
-------------
+- create a project (with the to-do list template) link to your repo
+- add multiple tasks
 
+-------------
+### Issues
 
+- create an simple issue
+- convert your tasks in issues and assign someone for each
+
+-------------
 ## Github Project Advanced
-### check list
-### tag / milestone
 
-------------
+- add check list in issues
+- create tag and attribute conresponding tag to issues
+- create a milstone to see progress in the project
 
-
+-------------
 ## Github Project Expert
-### branch (speedy)
-### pull request
+### Branch
 
-------------
+- create a branch
+- create branch with an issue
+- push a simple file with "Hello pull request World !"
 
+-------------
+### Pull request
 
+- create a pull request
+- assign someone to review
+- review someone add comment and ask a correction
+- correct your branch
+- approve other pull request after their correction
+
+-------------
 ## Github Project Bonus
 ###  Webhook with Discord
 
