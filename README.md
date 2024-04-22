@@ -1,6 +1,11 @@
 # Project-Management-Workshop
 
+## Prerequisites
+
+You need to have a github account.
 We encourage you to participate in this workshop with a partner.
+
+## Introduction
 
 We'll be initiating a new GitHub repository for the MyPaint project. Please discuss with your partner how to break down the project into manageable tasks.
 
